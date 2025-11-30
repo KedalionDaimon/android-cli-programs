@@ -1,0 +1,1 @@
+export PATH=/data/data/exa.free.bbin/files:/data/data/org.connectbot/files:$PATH ; cd /data/data/org.connectbot/files ; export TERMINFO=./terminfo ; export TERM=linux
